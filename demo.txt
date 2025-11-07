@@ -1,1 +1,15 @@
 industrial tool
+
+cmd : 
+
+ history
+    1  git init
+    2  git init
+    3  ls   // list 
+    4  git config --global user.name "SarthakSP18"
+    5  git config --global user.email "sarthakpomane123@gmail.com"
+    6  git add demo.txt   // git add filename
+    7  git commit -m "git hub demo"  // commit message
+    8  git remote add origin https://github.com/SarthakSP18/fct_industrial_tool   // path of github
+    9  git push -f origin master     // push cmd
+   10  history 
