@@ -1,3 +1,4 @@
 1) working area
 2) stagging area
 3) commited area 
+new changes 
